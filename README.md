@@ -34,6 +34,9 @@ The raw data files are too large to be stored in this repository. Please downloa
 This project aims to develop a recommendation system that leverages historical user data to provide tailored product recommendations. Key objectives include:
 
 Personalized Recommendations: Tailor suggestions based on user behavior.
+
+### Additions
+Added exploratory data analysis notebook and visualizations
 Diverse Use Cases: Focus on e-commerce product recommendations.
 Historical Data: Use 4.5 months of user interactions (views, add-to-carts, transactions).
 User Engagement: Improve satisfaction and retention.
