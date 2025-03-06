@@ -39,6 +39,10 @@ Personalized Recommendations: Tailor suggestions based on user behavior.
 Added exploratory data analysis notebook and visualizations
 
 ##Business Questions
+
 How can we personalize product recommendations to enhance user satisfaction and retention?
 What are the most effective strategies to improve conversion rates from views to transactions?
 How do seasonal patterns or trends influence user interactions and sales?
+Which products or categories are most popular or have the highest interaction rates?
+How can we identify and filter out bot activity or anomalous user behavior to ensure accurate recommendations?
+How can we balance recommendation accuracy with diversity to cater to a wide range of user preferences?
