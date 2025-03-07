@@ -37,9 +37,12 @@ Personalized Recommendations: Tailor suggestions based on user behavior.
 
 ### Additions
 Added exploratory data analysis notebook and visualizations
-Diverse Use Cases: Focus on e-commerce product recommendations.
-Historical Data: Use 4.5 months of user interactions (views, add-to-carts, transactions).
-User Engagement: Improve satisfaction and retention.
-Scalability: Handle large datasets efficiently.
-Business Metrics: Increase sales and conversion rates.
-Balance Accuracy & Diversity: Provide relevant and varied recommendations.
+
+##Business Questions
+
+How can we personalize product recommendations to enhance user satisfaction and retention?
+What are the most effective strategies to improve conversion rates from views to transactions?
+How do seasonal patterns or trends influence user interactions and sales?
+Which products or categories are most popular or have the highest interaction rates?
+How can we identify and filter out bot activity or anomalous user behavior to ensure accurate recommendations?
+How can we balance recommendation accuracy with diversity to cater to a wide range of user preferences?
