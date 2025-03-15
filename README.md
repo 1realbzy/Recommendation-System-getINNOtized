@@ -37,6 +37,8 @@ Personalized Recommendations: Tailor suggestions based on user behavior.
 
 ### Additions
 Added exploratory data analysis notebook and visualizations
+Final day of project due, final additions incoming
+
 
 **##Business Questions**
 
