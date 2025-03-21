@@ -30,14 +30,10 @@ The raw data files are too large to be stored in this repository. Please downloa
 - `item_properties_part1.csv`
 - `item_properties_part2.csv`
 
-  Project Overview
+  #Project Overview#
 This project aims to develop a recommendation system that leverages historical user data to provide tailored product recommendations. Key objectives include:
 
 Personalized Recommendations: Tailor suggestions based on user behavior.
-
-### Additions
-Added exploratory data analysis notebook and visualizations
-Final day of project due, final additions incoming
 
 
 **##Business Questions**
