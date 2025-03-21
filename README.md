@@ -30,8 +30,21 @@ The raw data files are too large to be stored in this repository. Please downloa
 - `item_properties_part1.csv`
 - `item_properties_part2.csv`
 
-  #Project Overview#
+  **#Project Overview#**
 This project aims to develop a recommendation system that leverages historical user data to provide tailored product recommendations. Key objectives include:
+## Project Objectives
+
+The "Recommendation-System-getINNOtized" project aimed to:
+
+| Objective                  | Description                                                                 |
+|----------------------------|-----------------------------------------------------------------------------|
+| Personalized Recommendations | Deliver tailored product suggestions to boost user satisfaction.           |
+| Diverse Use Cases          | Focus on products, with potential for content/services expansion.          |
+| Historical Data Utilization| Leverage 2.7M interactions (811,499 rows) for insights.                   |
+| User Engagement            | Increase interaction with relevant, diverse recommendations.               |
+| Scalability & Real-Time    | Handle large-scale data and real-time updates.                             |
+| Business Metrics           | Improve conversions, targeting Precision@5 >0.02.                          |
+| Accuracy & Diversity       | Balance low RMSE (e.g., 0.7139) with Diversity >0.5 (achieved 0.6520).    |
 
 Personalized Recommendations: Tailor suggestions based on user behavior.
 
